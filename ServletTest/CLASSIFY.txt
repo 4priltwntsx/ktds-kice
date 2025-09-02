@@ -1,0 +1,8 @@
+DATABASE#database,db,connection,query,sql,mysql,postgresql,mongodb,redis,timeout
+AUTH#login,logout,authentication,user,session,password,token,oauth,unauthorized,forbidden
+SYSTEM#memory,cpu,disk,network,performance,resource,load,usage,utilization,capacity
+SECURITY#attack,intrusion,malware,virus,threat,hack,breach,suspicious,injection,xss
+API#request,response,endpoint,rest,json,http,status,latency,throughput,rate
+CACHE#cache,redis,memcached,hit,miss,invalidation,expiration,eviction
+QUEUE#queue,message,kafka,rabbitmq,processing,consumer,producer,backlog
+FILE#file,directory,permission,read,write,access,upload,download,storage

@@ -1,0 +1,32 @@
+{
+  "models": [
+    {
+      "modelname": "cinema review",
+      "classes": [
+        { "code": "p8aEz10h", "value": "positive" },
+        { "code": "KjuO803l", "value": "negative" }
+      ],
+      "url": "http://127.0.0.1:9010"
+    },
+    {
+      "modelname": "sentiment analysis",
+      "classes": [
+        { "code": "A1B2C3", "value": "positive" },
+        { "code": "D4E5F6", "value": "negative" },
+        { "code": "G7H8I9", "value": "neutral" }
+      ],
+      "url": "http://127.0.0.1:9011"
+    },
+    {
+      "modelname": "news category",
+      "classes": [
+        { "code": "CAT001", "value": "politics" },
+        { "code": "CAT002", "value": "sports" },
+        { "code": "CAT003", "value": "technology" },
+        { "code": "CAT004", "value": "entertainment" },
+        { "code": "CAT005", "value": "business" }
+      ],
+      "url": "http://127.0.0.1:9012"
+    }
+  ]
+}
