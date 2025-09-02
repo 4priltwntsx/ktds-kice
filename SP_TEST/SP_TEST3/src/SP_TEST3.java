@@ -26,7 +26,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-public class SP_TEST {
+public class SP_TEST3 {
 	private static final Map<String, String> dictionary = new HashMap<>();
 	private static final Set<String> stopwords = new HashSet<>();
 	private static final List<ModelInfo> models = new ArrayList<>();

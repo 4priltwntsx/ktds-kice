@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
-public class SP_TEST {
+public class SP_TEST2 {
     private static final Map<String, String> dictionary = new HashMap<>();
     private static final Set<String> stopwords = new HashSet<>();
 

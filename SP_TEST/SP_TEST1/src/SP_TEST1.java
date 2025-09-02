@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class SP_TEST {
+public class SP_TEST1 {
     // 단어 사전 저장용 Map
     private static final Map<String, String> dictionary = new HashMap<>();
 
